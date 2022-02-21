@@ -22,6 +22,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 
+
 Here's a walkthrough of implemented user stories:
 
-![twittercp](https://user-images.githubusercontent.com/75554919/154919576-093bf4f3-f72b-461f-803d-93f72340bf6f.gif)
+![twittercp](https://user-images.githubusercontent.com/75554919/155009367-051139d1-0f9c-472c-b69f-10e8a511639a.gif)
